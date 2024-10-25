@@ -17,7 +17,7 @@
 
   ## 
 ### Sobre
-👤 19 Anos; morando em Pelotas-RS; 
+👤 19 Anos; morando em Pelotas-RS; Apaixonado por programação desde criança </br>
 📚 Estudante do curso Técnico de Eletrônica em IFSUL câmpus Pelotas (07/08) </br>
 📌 Atualmente estudando React e Mobile; e também Kotlin no IFSUL </br>
 💻 Interessado em WEB Dev & Back-End </br>
